@@ -1,0 +1,6 @@
+{
+    "lon": 72.8479,
+    "lat": 19.0144
+}
+
+Weather Data: {coord: {…}, weather: Array(1), base: 'stations', main: {…}, visibility: 10000, …}base: "stations"clouds: all: 5[[Prototype]]: Objectcod: 200coord: lat: 19.0144lon: 72.8479[[Prototype]]: Objectdt: 1767861074id: 1275339main: feels_like: 26.6grnd_level: 1013humidity: 40pressure: 1014sea_level: 1014temp: 26.6temp_max: 26.6temp_min: 26.6[[Prototype]]: Objectname: "Mumbai"sys: country: "IN"sunrise: 1767836614sunset: 1767876378[[Prototype]]: Objecttimezone: 19800visibility: 10000weather: Array(1)0: {id: 800, main: 'Clear', description: 'clear sky', icon: '01d'}length: 1[[Prototype]]: Array(0)wind: deg: 281gust: 3.5speed: 3.91[[Prototype]]: Object[[Prototype]]: Objectconstructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()__proto__: (...)get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()
